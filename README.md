@@ -7,4 +7,6 @@ My repo for saving Unity Creative Core Audio projects
 ![stars](https://img.shields.io/github/stars/agneay/Unity-Creative-Core-Audio?style=for-the-badge)
 ![issues](https://img.shields.io/github/issues/agneay/Unity-Creative-Core-Audio?style=for-the-badge)
 
+![](./unity-creative-core.png)
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y21JGEH6)
